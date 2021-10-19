@@ -47,7 +47,6 @@
                   &lt RSE TAB &mt LSHFT SPACE &lt LWR RET    &lt LWR ESC &mt RSHFT BSPC &lt RSE DEL
                         >;
                 };
-        };
                 lower_layer {
 // -----------------------------------------------------------------------------------------
 // |     |  _  |  F1 |  F2 |  F3 |  F4 |  F5 |   |  F6 |  F7 |  F8 |  F9 | F10 | F11 | F12 |
@@ -88,4 +87,5 @@
                                                                     &trans &none &trans   &trans &none &trans
                         >;
                 };
+        };
 };
